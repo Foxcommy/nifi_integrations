@@ -1,1 +1,1 @@
-![flow picture](../../../nifi_jira_integration.png)
+![flow picture](./nifi_jira_integration.PNG)
